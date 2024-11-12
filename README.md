@@ -7,7 +7,7 @@ ahead of industry trends. My curiosity for emerging technologies fuels my growth
 always bringing fresh energy and innovative thinking to the team.
 ---------------------------
 
-* 🌍  I'm based in Mars
+* 🌍  I'm based in Earth
 * ✉️  You can contact me at [frankduah0@gmail.com](mailto:frankduah0@gmail.com)
 
 ### Skills
