@@ -1,10 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Frank Duah
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Frank here
 ==================================================================================================================================
 
-I am a driven and passionate software engineer with a relentless commitment to mastering full-stack development. I thrive in collaborative environments, contributing
-to impactful projects that push the boundaries of technology. With a focus on front-end, back-end, and DevOps, I am continuously sharpening my skills and staying
-ahead of industry trends. My curiosity for emerging technologies fuels my growth, and I approach every challenge with ambition, dedication, and a drive for excellence,
-always bringing fresh energy and innovative thinking to the team.
+## About Me
+
+- **Tech Tinkerer Extraordinaire**: I’m the Swiss Army knife of full-stack development, constantly juggling front-end finesse, back-end brilliance, and DevOps wizardry. Whether it’s conquering a coding conundrum or riding the wave of emerging tech, I show up with curiosity, innovation, and the occasional caffeine-fueled eureka moment.
+
+- **Collaboration Champion**: I thrive in team settings where big ideas are born, and boundaries of technology are gleefully smashed. My secret weapon? A relentless drive for excellence and an uncanny ability to turn challenges into stepping stones (or sometimes just really cool memes).
+
 ---------------------------
 
 * 🌍  I'm based in Earth
