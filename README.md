@@ -4,7 +4,7 @@
 
 - **Tech Tinkerer Extraordinaire**: I’m the Swiss Army knife of full-stack development, constantly juggling front-end finesse, back-end brilliance, and DevOps wizardry. Whether it’s conquering a coding conundrum or riding the wave of emerging tech, I show up with curiosity, innovation, and the occasional caffeine-fueled eureka moment.
 
-- **Collaboration Champion**: I thrive in team settings where big ideas are born, and boundaries of technology are gleefully smashed. My secret weapon? A relentless drive for excellence and an uncanny ability to turn challenges into stepping stones (or sometimes just really cool memes). 
+- **Collaboration Champion**: I thrive in team settings where big ideas are born, and boundaries of technology are gleefully smashed. My secret weapon? A relentless drive for excellence and an uncanny ability to turn challenges into stepping stones (or sometimes just really cool memes).
 
 ---------------------------
 
