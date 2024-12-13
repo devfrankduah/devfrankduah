@@ -9,7 +9,6 @@
 -----------------------------
 
 * 🌍  I'm based in Earth
-* ✉️  You can contact me at [frankduah0@gmail.com](mailto:frankduah0@gmail.com)
 
 ### Skills 
 
