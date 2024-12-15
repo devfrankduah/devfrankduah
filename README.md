@@ -6,7 +6,7 @@
 
 - **Collaboration Champion**: I thrive in team settings where big ideas are born, and boundaries of technology are gleefully smashed. My secret weapon? A relentless drive for excellence and an uncanny ability to turn challenges into stepping stones (or sometimes just really cool memes). 
 
------------------------------
+------------------------------
 
 * 🌍  I'm based in Earth 
 
