@@ -8,7 +8,7 @@
 
 ------------------------------ 
 
-* 🌍  I'm based in Earth
+* 🌍  I'm based in Earth 
  
 ### Skills
 
