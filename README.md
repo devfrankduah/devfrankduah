@@ -29,7 +29,7 @@ const frank = {
 
 - 🌱 Going deep on **reinforcement learning**, **LLM tooling**, and **distributed systems**
 - 🤝 Active OSS contributor — **9+ merged PRs** into [llm-exe](https://github.com/llm-exe/llm-exe)
-- 💬 Ask me about **React, Next.js, TypeScript, Flutter**, or **ML for finance**
+- 💬 Ask me about **Webdev, MobileDev, DevOps, AWS, LLMs**, or **ML**
 - 🔭 Currently building: **AI-powered developer tools**
 
 <br />
