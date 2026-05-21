@@ -28,8 +28,8 @@ const frank = {
 ```
 
 - 🌱 Going deep on **reinforcement learning**, **LLM tooling**, and **distributed systems**
-- 🤝 Active OSS contributor — **9+ merged PRs** into [llm-exe](https://github.com/llm-exe/llm-exe)
-- 💬 Ask me about **Webdev, Mobiledev, DevOps, AWS, LLMs**, or **ML**
+- 🤝 Active OSS contributor - **30+ merged PRs** into [llm-exe](https://github.com/llm-exe/llm-exe)
+- 💬 Ask me about **Web Dev, Mobile Dev, DevOps, AWS, LLMs**, or **ML**
 - 🔭 Currently building: **AI-powered developer tools**
 
 <br />
