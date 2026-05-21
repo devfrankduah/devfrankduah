@@ -1,30 +1,191 @@
-## The Tech Maverick welcomes you! ⚡ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+<div align="center">
 
-## About Me
+<a href="https://github.com/devfrankduah">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Frank+%F0%9F%91%8B;Full-Stack+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+Flutter;Building+AI+tools+%26+ML+systems;Always+shipping.+Always+learning." alt="Typing SVG" />
+</a>
 
-- **Tech Tinkerer Extraordinaire**: I’m the Swiss Army knife of full-stack development, constantly juggling front-end finesse, back-end brilliance, and DevOps wizardry. Whether it’s conquering a coding conundrum or riding the wave of emerging tech, I show up with curiosity, innovation, and the occasional caffeine-fueled eureka moment.
+<br />
 
-- **Collaboration Champion**: I thrive in team settings where big ideas are born, and boundaries of technology are gleefully smashed. My secret weapon? A relentless drive for excellence and an uncanny ability to turn challenges into stepping stones (or sometimes just really cool memes).
+<a href="https://github.com/devfrankduah"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img alt="Views" src="https://komarev.com/ghpvc/?username=devfrankduah&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
 
------------------------------- 
+</div>
 
-* 🌍  I'm based in Earth, waiting on @elonmusk to leave for Mars 🚀
- 
-### Skills
+<br />
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+## 👨‍💻 About Me
+
+```ts
+const frank = {
+  role:       "Full-Stack Engineer & ML Practitioner",
+  location:   "Earth 🌍",
+  focus:      ["Web", "Mobile", "AI/ML", "LLM Tooling"],
+  building:   "AI-PR-Assistant · contributing to llm-exe OSS",
+  learning:   ["Reinforcement Learning", "LLMs", "Cloud Architecture"],
+  philosophy: "Ship fast, iterate faster.",
+  funFact:    "My RL agent beats VWAP by 44%. Production algos aren't ready for me yet.",
+};
+```
+
+- 🌱 Going deep on **reinforcement learning**, **LLM tooling**, and **distributed systems**
+- 🤝 Active OSS contributor — **9+ merged PRs** into [llm-exe](https://github.com/llm-exe/llm-exe)
+- 💬 Ask me about **React, Next.js, TypeScript, Flutter**, or **ML for finance**
+- 🔭 Currently building: **AI-powered developer tools**
+
+<br />
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,dart,java,c,cpp,html,css,bash)](https://skillicons.dev)
+
+**Frameworks & Libraries**
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,express,flutter,tailwind,redux)](https://skillicons.dev)
+
+**ML & AI**
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,opencv)](https://skillicons.dev)
+
+**Databases & Platforms**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,prisma)](https://skillicons.dev)
+
+**Cloud & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vercel,netlify,figma,postman,vscode)](https://skillicons.dev)
+
+</div>
+
+<br />
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/devfrankduah">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=devfrankduah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=450" />
+  </a>
+  <a href="https://github.com/devfrankduah">
+    <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=devfrankduah&theme=tokyonight&hide_border=true&card_width=450" />
+  </a>
+</div>
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfrankduah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" />
+  <img height="175" src="https://github-profile-trophy.vercel.app/?username=devfrankduah&theme=tokyonight&no-frame=true&no-bg=true&column=3&row=2&margin-w=10&margin-h=10" />
+</div>
+
+<br />
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<br />
+
+### 📈 ML-Latency-Aware-Execution-Engine
+
+<p><sub><i>RL Trade Execution · CS6140 @ Northeastern</i></sub></p>
+
+<p align="left"><sub>RL agent that minimises crypto slippage on large orders. Trained on 7.5M bars of real Binance data across 3 assets, validated against 98M tick-level trades — beats TWAP by <strong>+44.1%</strong>.</sub></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" height="28" />
 </p>
 
- 
-### Socials
+<a href="https://github.com/devfrankduah/ML-Latency-Aware-Execution-Engine"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<p align="left"> <a href="https://www.github.com/devfrankduah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<br /><br />
 
-### Support Me
+</td>
+<td align="center" width="50%" valign="top">
 
-<ul style="list-style-type: none; margin: 0;">
+<br />
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/frankduah"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+### 🎵 music\_mood\_classification
 
-</ul>
+<p><sub><i>Ensemble Music Mood Classifier</i></sub></p>
+
+<p align="left"><sub>Finetuned ensemble combining audio feature extraction (VGG), lyrics analysis, and custom regression classifiers built in both scikit-learn and raw NumPy/Pandas — no shortcuts.</sub></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" height="28" />
+</p>
+
+<a href="https://github.com/devfrankduah/music_mood_classification"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br /><br />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<br />
+
+### 🔧 llm-exe
+
+<p><sub><i>Open Source Contributor · <a href="https://llm-exe.com">llm-exe.com</a></i></sub></p>
+
+<p align="left"><sub>9+ merged PRs into the upstream TypeScript LLM framework — workflow automation, CI/CD hardening, release pipeline improvements, and docs-sync infrastructure.</sub></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,githubactions" height="28" />
+</p>
+
+<a href="https://github.com/llm-exe/llm-exe"><img src="https://img.shields.io/badge/Upstream-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/devfrankduah/llm-exe"><img src="https://img.shields.io/badge/Fork-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br /><br />
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<br />
+
+### 🔍 AI-PR-Assistant
+
+<p><sub><i>GitHub-Integrated Bot</i></sub></p>
+
+<p align="left"><sub>AI bot that summarises PRs, highlights important changes, and suggests improvements — wired directly into your repo workflow so reviews happen automatically.</sub></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,githubactions" height="28" />
+</p>
+
+<a href="https://github.com/devfrankduah/AI-PR-Assistant"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br /><br />
+
+</td>
+</tr>
+</table>
+</div>
+
+<br />
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devfrankduah&bg_color=1A1B27&color=A78BFA&line=6366F1&point=F472B6&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20Last%2030%20days&title_color=E4E4E7&height=300" />
+</div>
+
+<br />
+
+## 💡 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br />
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/devfrankduah">devfrankduah</a> — thanks for stopping by!</sub>
+</div>
