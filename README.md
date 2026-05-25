@@ -20,8 +20,8 @@ const frank = {
   role:       "Full-Stack Engineer & ML Practitioner",
   location:   "Earth",
   focus:      ["Web", "Mobile", "AI/ML", "LLM Tooling"],
-  building:   "AI-PR-Assistant · contributing to llm-exe OSS",
-  learning:   ["Reinforcement Learning", "LLMs", "Cloud Architecture"],
+  building:   "AI Agents · contributing to llm-exe OSS",
+  learning:   ["Machine Learning", "LLMs", "Cloud Architecture"],
   philosophy: "Ship fast, iterate faster.",
 };
 ```
