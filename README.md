@@ -13,28 +13,27 @@
 
 <br />
 
-## 👨‍💻 About Me
+## About Me
 
 ```ts
 const frank = {
   role:       "Full-Stack Engineer & ML Practitioner",
-  location:   "Earth 🌍",
+  location:   "Earth",
   focus:      ["Web", "Mobile", "AI/ML", "LLM Tooling"],
   building:   "AI-PR-Assistant · contributing to llm-exe OSS",
   learning:   ["Reinforcement Learning", "LLMs", "Cloud Architecture"],
   philosophy: "Ship fast, iterate faster.",
-  funFact:    "My RL agent beats VWAP by 44%. Production algos aren't ready for me yet.",
 };
 ```
 
-- 🌱 Going deep on **reinforcement learning**, **LLM tooling**, and **distributed systems**
-- 🤝 Active OSS contributor - **30+ merged PRs** into [llm-exe](https://github.com/llm-exe/llm-exe)
-- 💬 Ask me about **Web Dev, Mobile Dev, DevOps, AWS, LLMs**, or **ML**
-- 🔭 Currently building: **AI-powered developer tools**
+-  Going deep on **Machine learning**, **Agentic AI development**, **LLM tooling**, and **distributed systems**
+-  Active OSS contributor - **30+ merged PRs** into [llm-exe](https://github.com/llm-exe/llm-exe)
+-  Ask me about **Web Dev, Mobile Dev, DevOps, AWS, LLMs**, or **ML**
+-  Currently building: **AI-powered developer tools**
 
 <br />
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -62,7 +61,7 @@ const frank = {
 
 <br />
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/devfrankduah">
@@ -80,7 +79,7 @@ const frank = {
 
 <br />
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 <table>
@@ -89,9 +88,9 @@ const frank = {
 
 <br />
 
-### 📈 ML-Latency-Aware-Execution-Engine
+###  ML-Latency-Aware-Execution-Engine
 
-<p><sub><i>RL Trade Execution · CS6140 @ Northeastern</i></sub></p>
+<p><sub><i>RL Trade Execution </i></sub></p>
 
 <p align="left"><sub>RL agent that minimises crypto slippage on large orders. Trained on 7.5M bars of real Binance data across 3 assets, validated against 98M tick-level trades — beats TWAP by <strong>+44.1%</strong>.</sub></p>
 
@@ -108,7 +107,7 @@ const frank = {
 
 <br />
 
-### 🎵 music\_mood\_classification
+### music\_mood\_classification
 
 <p><sub><i>Ensemble Music Mood Classifier</i></sub></p>
 
@@ -129,7 +128,7 @@ const frank = {
 
 <br />
 
-### 🔧 llm-exe
+###  llm-exe
 
 <p><sub><i>Open Source Contributor · <a href="https://llm-exe.com">llm-exe.com</a></i></sub></p>
 
@@ -149,7 +148,7 @@ const frank = {
 
 <br />
 
-### 🔍 AI-PR-Assistant
+###  AI-PR-Assistant
 
 <p><sub><i>GitHub-Integrated Bot</i></sub></p>
 
@@ -170,7 +169,7 @@ const frank = {
 
 <br />
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devfrankduah&bg_color=1A1B27&color=A78BFA&line=6366F1&point=F472B6&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20Last%2030%20days&title_color=E4E4E7&height=300" />
@@ -178,7 +177,7 @@ const frank = {
 
 <br />
 
-## 💡 Dev Quote
+##  Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -187,5 +186,5 @@ const frank = {
 <br />
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/devfrankduah">devfrankduah</a> — thanks for stopping by!</sub>
+  <sub>⭐ From <a href="https://github.com/devfrankduah">devfrankduah</a> - thanks for stopping by!</sub>
 </div>
