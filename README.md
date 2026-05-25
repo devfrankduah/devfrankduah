@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/devfrankduah">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Frank+%F0%9F%91%8B;Full-Stack+Engineer+%7C+WebDev+%C2%B7+MobileDev+%C2%B7+DevOps;Building+AI+tools+%26+ML+systems;Always+shipping.+Always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Frank+%F0%9F%91%8B;Full-Stack+Engineer+DevOps;Building+AI+tools+%26+ML+systems;Always+shipping.+Always+learning." alt="Typing SVG" />
 </a>
 
 <br />
