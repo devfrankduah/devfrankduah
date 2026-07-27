@@ -61,23 +61,7 @@ const frank = {
 
 <br />
 
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/devfrankduah">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=devfrankduah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=450" />
-  </a>
-  <a href="https://github.com/devfrankduah">
-    <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=devfrankduah&theme=tokyonight&hide_border=true&card_width=450" />
-  </a>
-</div>
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfrankduah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" />
-  <img height="175" src="https://github-profile-trophy.vercel.app/?username=devfrankduah&theme=tokyonight&no-frame=true&no-bg=true&column=3&row=2&margin-w=10&margin-h=10" />
-</div>
-
-<br />
+##  GitHub Stats <div align="center">  <a href="https://github.com/devfrankduah">    <img height="175" src="https://github-readme-stats.vercel.app/api?username=devfrankduah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=450" />  </a>  <a href="https://github.com/devfrankduah">    <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=devfrankduah&theme=tokyonight&hide_border=true&card_width=450" />  </a></div> <div align="center">  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfrankduah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" />  <img height="175" src="https://github-profile-trophy.vercel.app/?username=devfrankduah&theme=tokyonight&no-frame=true&no-bg=true&column=3&row=2&margin-w=10&margin-h=10" /></div> <br />
 
 ## Featured Projects
 
