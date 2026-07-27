@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/devfrankduah">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Frank+%F0%9F%91%8B;Full-Stack+Engineer.+DevOps;Building+AI+tools+%26+ML+systems;Always+shipping.+Always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Frank+%F0%9F%91%8B;AI%2FML+Engineer;Building+LLMs+from+first+principles;Agentic+AI+%C2%B7+LLM+Eval+%26+Safety+%C2%B7+Edge+AI;Always+shipping.+Always+learning." alt="Typing SVG" />
 </a>
 
 <br />
@@ -17,37 +17,37 @@
 
 ```ts
 const frank = {
-  role:       "Full-Stack Engineer & ML Practitioner",
-  location:   "Earth",
-  focus:      ["Web", "Mobile", "AI/ML", "LLM Tooling"],
-  building:   "AI Agents · contributing to llm-exe OSS",
-  learning:   ["Machine Learning", "LLMs", "Cloud Architecture"],
-  philosophy: "Ship fast, iterate faster.",
+  role:       "AI/ML Engineer",
+  background: "Software Engineering & DevOps",
+  focus:      ["LLMs from first principles", "Agentic AI", "LLM Eval & Safety", "Edge AI"],
+  building:   "AI agents, LLM tooling, and eval/red-teaming systems",
+  learning:   ["Advanced ML", "Distributed Systems", "Cloud Architecture"],
+  philosophy: "Build from first principles, then ship with tests.",
 };
 ```
 
--  Going deep on **Machine learning**, **Agentic AI development**, **LLM tooling**, and **distributed systems**
--  Active OSS contributor - **30+ merged PRs** into [llm-exe](https://github.com/llm-exe/llm-exe)
--  Ask me about **Web Dev, Mobile Dev, DevOps, AWS, LLMs**, or **ML**
--  Currently building: **AI-powered developer tools**
+- Going deep on **LLMs, agentic AI, LLM evaluation & safety**, and **edge AI**
+- Open-source: **second-highest contributor to [llm-exe](https://github.com/llm-exe/llm-exe)** with **40+ merged PRs**
+- Currently building **from-scratch LLM tooling**: a transformer, a tokenizer, fine-tuning methods, an MCP server, and an agent red-teamer, all with no frameworks
+- Ask me about **LLMs, agentic AI, RAG, evaluation, MLOps, AWS**, or **DevOps**
 
 <br />
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,dart,java,c,cpp,html,css,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,dart,java,c,cpp,html,css,bash)](https://skillicons.dev)
+
+**ML & AI**
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,express,flutter,tailwind,redux)](https://skillicons.dev)
-
-**ML & AI**
-
-[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,opencv)](https://skillicons.dev)
 
 **Databases & Platforms**
 
@@ -61,7 +61,7 @@ const frank = {
 
 <br />
 
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/devfrankduah">
@@ -79,7 +79,7 @@ const frank = {
 
 <br />
 
-##  Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
@@ -88,11 +88,51 @@ const frank = {
 
 <br />
 
-###  ML-Latency-Aware-Execution-Engine
+### Crucible
 
-<p><sub><i>RL Trade Execution </i></sub></p>
+<p><sub><i>Adversarial Stress-Tester for LLM Agents</i></sub></p>
 
-<p align="left"><sub>RL agent that minimises crypto slippage on large orders. Trained on 7.5M bars of real Binance data across 3 assets, validated against 98M tick-level trades — beats TWAP by <strong>+44.1%</strong>.</sub></p>
+<p align="left"><sub>Point it at any agent and it runs hostile and edge-case attacks aligned with the OWASP LLM Top 10 (prompt injection, jailbreaks, secret-leakage, hallucination, robustness, over-refusal), then reports per-category hold rates plus a severity-weighted risk score. Includes a CI gate that fails a build when an agent gets less safe. Zero dependencies.</sub></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="28" />
+</p>
+
+<sub><i>Repo going public soon</i></sub>
+
+<br /><br />
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<br />
+
+### Device-Aware RAG Agent
+
+<p><sub><i>Capability-Aware Retrieval</i></sub></p>
+
+<p align="left"><sub>A RAG agent that detects device and network conditions and routes between cloud, quantized on-device (GGUF via llama-cpp-python), and fully offline modes. Validated on-device with no network connection. 108+ passing tests.</sub></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="28" />
+</p>
+
+<sub><i>Repo going public soon</i></sub>
+
+<br /><br />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<br />
+
+### ML-Latency-Aware-Execution-Engine
+
+<p><sub><i>RL Trade Execution</i></sub></p>
+
+<p align="left"><sub>RL agent that minimises crypto slippage on large orders. Trained on real Binance data across 3 assets and validated against 98M tick-level trades. Beats a TWAP baseline by +10.2 basis points and cuts execution cost by 96.7% versus naive execution.</sub></p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch" height="28" />
@@ -107,58 +147,17 @@ const frank = {
 
 <br />
 
-### music\_mood\_classification
+### llm-exe
 
-<p><sub><i>Ensemble Music Mood Classifier</i></sub></p>
+<p><sub><i>Open-Source Contributor · <a href="https://llm-exe.com">llm-exe.com</a></i></sub></p>
 
-<p align="left"><sub>Finetuned ensemble combining audio feature extraction (VGG), lyrics analysis, and custom regression classifiers built in both scikit-learn and raw NumPy/Pandas — no shortcuts.</sub></p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" height="28" />
-</p>
-
-<a href="https://github.com/devfrankduah/music_mood_classification"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br /><br />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-
-<br />
-
-###  llm-exe
-
-<p><sub><i>Open Source Contributor · <a href="https://llm-exe.com">llm-exe.com</a></i></sub></p>
-
-<p align="left"><sub>9+ merged PRs into the upstream TypeScript LLM framework — workflow automation, CI/CD hardening, release pipeline improvements, and docs-sync infrastructure.</sub></p>
+<p align="left"><sub>Second-highest contributor to this upstream TypeScript LLM framework, with 40+ merged PRs across workflow automation, CI/CD hardening, release pipeline improvements, and docs-sync infrastructure.</sub></p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,githubactions" height="28" />
 </p>
 
 <a href="https://github.com/llm-exe/llm-exe"><img src="https://img.shields.io/badge/Upstream-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/devfrankduah/llm-exe"><img src="https://img.shields.io/badge/Fork-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br /><br />
-
-</td>
-<td align="center" width="50%" valign="top">
-
-<br />
-
-###  AI-PR-Assistant
-
-<p><sub><i>GitHub-Integrated Bot</i></sub></p>
-
-<p align="left"><sub>AI bot that summarises PRs, highlights important changes, and suggests improvements — wired directly into your repo workflow so reviews happen automatically.</sub></p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,githubactions" height="28" />
-</p>
-
-<a href="https://github.com/devfrankduah/AI-PR-Assistant"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br /><br />
 
@@ -169,15 +168,15 @@ const frank = {
 
 <br />
 
-##  Contribution Activity
+## Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devfrankduah&bg_color=1A1B27&color=A78BFA&line=6366F1&point=F472B6&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20Last%2030%20days&title_color=E4E4E7&height=300" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devfrankduah&bg_color=1A1B27&color=A78BFA&line=6366F1&point=F472B6&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution%20Graph%20%7C%20Last%2030%20days&title_color=E4E4E7&height=300" />
 </div>
 
 <br />
 
-##  Dev Quote
+## Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -186,5 +185,5 @@ const frank = {
 <br />
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/devfrankduah">devfrankduah</a> - thanks for stopping by!</sub>
+  <sub>From <a href="https://github.com/devfrankduah">devfrankduah</a>, thanks for stopping by.</sub>
 </div>
