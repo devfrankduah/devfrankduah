@@ -6,6 +6,8 @@
 
 <br />
 
+<a href="https://www.frankduah.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/devfrankduah"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/devfrankduah"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img alt="Views" src="https://komarev.com/ghpvc/?username=devfrankduah&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
 
@@ -26,9 +28,9 @@ const frank = {
 };
 ```
 
+- Building the **LLM stack from scratch, no frameworks**: a transformer with hand-derived gradients, LoRA/DoRA/QLoRA fine-tuning, a byte-level BPE tokenizer, an MCP server, and an agent red-teamer. The code is public, see below.
 - Going deep on **LLMs, agentic AI, LLM evaluation & safety**, and **edge AI**
-- Open-source: **second-highest contributor to [llm-exe](https://github.com/llm-exe/llm-exe)** with **40+ merged PRs**
-- Currently building **from-scratch LLM tooling**: a transformer, a tokenizer, fine-tuning methods, an MCP server, and an agent red-teamer, all with no frameworks
+- Open source: **second-highest contributor to [llm-exe](https://github.com/llm-exe/llm-exe)** ([my merged PRs](https://github.com/llm-exe/llm-exe/pulls?q=is%3Apr+author%3Adevfrankduah+is%3Amerged))
 - Ask me about **LLMs, agentic AI, RAG, evaluation, MLOps, AWS**, or **DevOps**
 
 <br />
@@ -61,8 +63,6 @@ const frank = {
 
 <br />
 
-##  GitHub Stats <div align="center">  <a href="https://github.com/devfrankduah">    <img height="175" src="https://github-readme-stats.vercel.app/api?username=devfrankduah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=450" />  </a>  <a href="https://github.com/devfrankduah">    <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=devfrankduah&theme=tokyonight&hide_border=true&card_width=450" />  </a></div> <div align="center">  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfrankduah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" />  <img height="175" src="https://github-profile-trophy.vercel.app/?username=devfrankduah&theme=tokyonight&no-frame=true&no-bg=true&column=3&row=2&margin-w=10&margin-h=10" /></div> <br />
-
 ## Featured Projects
 
 <div align="center">
@@ -72,17 +72,17 @@ const frank = {
 
 <br />
 
-### Crucible
+### Glassbox
 
-<p><sub><i>Adversarial Stress-Tester for LLM Agents</i></sub></p>
+<p><sub><i>A Transformer Built From Scratch in NumPy</i></sub></p>
 
-<p align="left"><sub>Point it at any agent and it runs hostile and edge-case attacks aligned with the OWASP LLM Top 10 (prompt injection, jailbreaks, secret-leakage, hallucination, robustness, over-refusal), then reports per-category hold rates plus a severity-weighted risk score. Includes a CI gate that fails a build when an agent gets less safe. Zero dependencies.</sub></p>
+<p align="left"><sub>No PyTorch, no autograd. Forward <strong>and</strong> backward passes for attention, LayerNorm, RMSNorm, GELU, SwiGLU, RoPE, softmax, and cross-entropy are all hand-derived and gradient-checked to <strong>1e-8</strong>. Ships both GPT-2 and Llama-style architectures in one codebase, trains on a CPU, generates with a KV-cache, and renders attention heatmaps so the internals are visible. 39 tests.</sub></p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="28" />
 </p>
 
-<sub><i>Repo going public soon</i></sub>
+<a href="https://github.com/devfrankduah/glassbox"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br /><br />
 
@@ -91,17 +91,17 @@ const frank = {
 
 <br />
 
-### Device-Aware RAG Agent
+### Forge
 
-<p><sub><i>Capability-Aware Retrieval</i></sub></p>
+<p><sub><i>LoRA, DoRA & QLoRA From Scratch</i></sub></p>
 
-<p align="left"><sub>A RAG agent that detects device and network conditions and routes between cloud, quantized on-device (GGUF via llama-cpp-python), and fully offline modes. Validated on-device with no network connection. 108+ passing tests.</sub></p>
+<p align="left"><sub>Efficient fine-tuning implemented by hand, forward and backward, gradient-checked to <strong>1e-8</strong>. Includes DoRA (weight-decomposed LoRA, 2024) and QLoRA-style int8 quantization for a roughly 4x smaller frozen base, plus adapter save/load/hot-swap and honest held-out perplexity eval. The base model is provably untouched. 59 tests.</sub></p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="28" />
 </p>
 
-<sub><i>Repo going public soon</i></sub>
+<a href="https://github.com/devfrankduah/forge"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br /><br />
 
@@ -112,11 +112,30 @@ const frank = {
 
 <br />
 
+### Crucible
+
+<p><sub><i>Adversarial Stress-Tester for LLM Agents</i></sub></p>
+
+<p align="left"><sub>Point it at any agent and it runs hostile and edge-case attacks aligned with the OWASP LLM Top 10 (prompt injection, jailbreaks, secret-leakage, hallucination, robustness, over-refusal), then reports per-category hold rates over N trials plus a severity-weighted risk score. Includes a CI gate that fails a build when an agent gets measurably less safe. Zero dependencies, 61 tests.</sub></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="28" />
+</p>
+
+<a href="https://github.com/devfrankduah/crucible"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br /><br />
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<br />
+
 ### ML-Latency-Aware-Execution-Engine
 
 <p><sub><i>RL Trade Execution</i></sub></p>
 
-<p align="left"><sub>RL agent that minimises crypto slippage on large orders. Trained on real Binance data across 3 assets and validated against 98M tick-level trades. Beats a TWAP baseline by +10.2 basis points and cuts execution cost by 96.7% versus naive execution.</sub></p>
+<p align="left"><sub>RL agent that minimises crypto slippage on large orders, using a Double DQN with a dueling architecture and prioritized experience replay alongside classical models. Trained on real Binance data across 3 assets and validated against 98M tick-level trades. Implements the Almgren-Chriss market-impact model, with 17 ablation studies and 176 unit tests.</sub></p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch" height="28" />
@@ -127,6 +146,8 @@ const frank = {
 <br /><br />
 
 </td>
+</tr>
+<tr>
 <td align="center" width="50%" valign="top">
 
 <br />
@@ -135,13 +156,33 @@ const frank = {
 
 <p><sub><i>Open-Source Contributor · <a href="https://llm-exe.com">llm-exe.com</a></i></sub></p>
 
-<p align="left"><sub>Second-highest contributor to this upstream TypeScript LLM framework, with 40+ merged PRs across workflow automation, CI/CD hardening, release pipeline improvements, and docs-sync infrastructure.</sub></p>
+<p align="left"><sub>Second-highest contributor to this upstream TypeScript framework for building LLM applications, across workflow automation, CI/CD hardening, release pipeline improvements, and docs-sync infrastructure.</sub></p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,githubactions" height="28" />
 </p>
 
 <a href="https://github.com/llm-exe/llm-exe"><img src="https://img.shields.io/badge/Upstream-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/llm-exe/llm-exe/pulls?q=is%3Apr+author%3Adevfrankduah+is%3Amerged"><img src="https://img.shields.io/badge/My%20merged%20PRs-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br /><br />
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<br />
+
+### Opening Soon
+
+<p><sub><i>The Rest of the From-Scratch Stack</i></sub></p>
+
+<p align="left"><sub><strong>Cleave</strong>, a byte-level BPE tokenizer with a provably lossless Unicode round-trip, exported to a dependency-free in-browser tokenizer. <strong>Winnow</strong>, an MCP server written without an SDK (JSON-RPC 2.0 over stdio) that compacts documents to Markdown and scans them for prompt injection. <strong>Device-Aware RAG Agent</strong>, routing between cloud, quantized on-device GGUF, and fully offline modes.</sub></p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="28" />
+</p>
+
+<sub><i>Write-ups at <a href="https://www.frankduah.me">frankduah.me</a></i></sub>
 
 <br /><br />
 
@@ -152,6 +193,24 @@ const frank = {
 
 <br />
 
+##  GitHub Stats 
+
+<div align="center">  
+  <a href="https://github.com/devfrankduah">    
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=devfrankduah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=450" />  
+  </a>  
+  <a href="https://github.com/devfrankduah">    
+    <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=devfrankduah&theme=tokyonight&hide_border=true&card_width=450" />  
+  </a>
+</div> 
+<div align="center">  
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfrankduah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" />  
+<img height="175" src="https://github-profile-trophy.vercel.app/?username=devfrankduah&theme=tokyonight&no-frame=true&no-bg=true&column=3&row=2&margin-w=10&margin-h=10" />
+</div>
+
+<br />
+<br />
+
 ## Contribution Activity
 
 <div align="center">
@@ -159,14 +218,12 @@ const frank = {
 </div>
 
 <br />
+<br /> 
 
-## Dev Quote
+## Dev Quote 
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+<div align="center">  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></div> <br />
 
-<br />
 
 <div align="center">
   <sub>From <a href="https://github.com/devfrankduah">devfrankduah</a>, thanks for stopping by.</sub>
